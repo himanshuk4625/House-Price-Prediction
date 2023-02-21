@@ -18,15 +18,21 @@ The code was written in Python 3.9 and requires the following libraries:
 pandas 
 
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 streamlit 
+
 pickle
+
 These dependencies can be installed using pip.
 
 Usage
 To use the model, simply download the KC_House_Price_Prediction_Model.ipynb file and open it in Jupyter Notebook or a compatible program. You can modify the code and input your own data to make predictions on new houses.
 
-Author
+Author:
 This project was created by Himanshu 
