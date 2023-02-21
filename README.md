@@ -1,5 +1,5 @@
 # House-Price-Prediction
-KC House Price Prediction Model
+# KC House Price Prediction Model
 This repository contains the code for the KC House Price Prediction Model, which predicts the prices of houses in King County, Washington, using machine learning algorithms.
 
 Overview
