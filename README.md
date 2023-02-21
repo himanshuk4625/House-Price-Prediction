@@ -15,7 +15,8 @@ The following files are included in this repository:
 Dependencies
 The code was written in Python 3.9 and requires the following libraries:
 
-pandas
+pandas 
+
 numpy
 matplotlib
 seaborn
