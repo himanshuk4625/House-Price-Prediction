@@ -8,10 +8,10 @@ The model was built using the King County Housing dataset, which contains inform
 Files
 The following files are included in this repository:
 
-# kc_house_data.csv: The King County Housing dataset.
-# KC_House_Price_Prediction_Model.ipynb: Jupyter notebook containing the code for the model.
-# README.md: This file.
-# KC_House_Price_Prediction.pptx
+## kc_house_data.csv: The King County Housing dataset.
+## KC_House_Price_Prediction_Model.ipynb: Jupyter notebook containing the code for the model.
+## README.md: This file.
+## KC_House_Price_Prediction.pptx
 Dependencies
 The code was written in Python 3.9 and requires the following libraries:
 
